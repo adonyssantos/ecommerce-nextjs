@@ -1,0 +1,17 @@
+__snapshots__/
+.eslintignore
+.eslintrc.json
+.gitignore
+.husky
+.next/
+.prettierignore
+.prettierrc.json
+build/
+coverage/
+dist/
+next-env.d.ts
+next.config.js
+node_modules/
+package-lock.json
+yarn.lock
+yarn-error.log

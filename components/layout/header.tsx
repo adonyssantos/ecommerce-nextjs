@@ -8,6 +8,9 @@ const Header = () => {
         <LinkUI className={styles.link} href="/">
           Home
         </LinkUI>
+        <LinkUI className={styles.link} href="/store">
+          Store
+        </LinkUI>
         <LinkUI className={styles.link} href="/faq">
           FAQ
         </LinkUI>
